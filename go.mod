@@ -11,8 +11,6 @@ require (
 	github.com/twitchtv/protogen v0.1.0
 )
 
-replace github.com/imdario/mergo => github.com/imdario/mergo v0.3.11
-
 require (
 	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/semver v1.4.1 // indirect
