@@ -6,8 +6,8 @@ import (
 	"text/template"
 
 	"github.com/Masterminds/sprig"
-	"github.com/twirphp/twirp/protoc-gen-twirp_php/internal/php"
-	"github.com/twirphp/twirp/protoc-gen-twirp_php/internal/proto"
+	"github.com/paukenba/twirp/protoc-gen-twirp_php/internal/php"
+	"github.com/paukenba/twirp/protoc-gen-twirp_php/internal/proto"
 )
 
 // TxtFuncMap wraps sprig.TxtFuncMap and adds some proto generation specific ones.

@@ -12,7 +12,7 @@ import (
 	"github.com/golang/protobuf/proto"
 	plugin "github.com/golang/protobuf/protoc-gen-go/plugin"
 	"github.com/pkg/errors"
-	"github.com/twirphp/twirp/protoc-gen-twirp_php/internal/gen"
+	"github.com/paukenba/twirp/protoc-gen-twirp_php/internal/gen"
 )
 
 //go:generate sh -c "CGO_ENABLED=0 go run build/packr.go $PWD"
